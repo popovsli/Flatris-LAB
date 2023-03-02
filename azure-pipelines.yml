@@ -9,7 +9,7 @@ trigger:
 variables:
  
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: 'YourServiceConnectionName'
+  azureSubscription: 'name'
   
   # Web app name
   webAppName: 'flatris-popovsli'
